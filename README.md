@@ -27,7 +27,19 @@ O objeto arguments é uma variável local disponível dentro de todas as funçõ
 
 // ES2015
 //var args = Array.from(arguments);
-  
+
+And added some basic parameters like 
+```javascript
+this.radius = radius; //size of the agent
+
+this.health = 1; // health 
+
+this.healthDecrease = 0.003; // how much health will decrease over time
+
+this.goodFoodDie = 0.5; // food increase the health by that amount 
+
+this.badFoodDie = -0.4; // poison decrease the health by that amount
+
 ##
   
 
