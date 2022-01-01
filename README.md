@@ -36,5 +36,10 @@ CSS
   
 Fluxo normal é como o navegador estabelece páginas HTML por padrão quando você não faz nada para controlar o layout da página
   
+ 
+ ##
+  
   
 <img align="center" alt="Zeus-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/58530995/147861585-e0ee755a-1c55-4079-801a-024b348f4ebe.png">
+ <img align="center" alt="Zeus-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/58530995/147861626-ab7b3956-d69d-43b0-90af-a8ad67853ee9.png">
+
