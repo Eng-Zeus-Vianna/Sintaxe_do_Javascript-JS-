@@ -15,3 +15,19 @@ O HTML usa "Marcação" para anotar texto, imagem e outros conteúdos para exibi
   
 ##
 
+
+JS
+  
+O objeto arguments é uma variável local disponível dentro de todas as funções. Você pode referenciar os argumentos de uma função dentro da função usando o objeto arguments. Esse objeto contém um registro para cada argumento fornecido para a função, com o índice do primeiro registro começando em 0. Por exemplo, se são passados três argumentos para uma função, você pode referenciá-los como a seguir: 
+  
+  
+var args = Array.prototype.slice.call(arguments);
+var args = [].slice.call(arguments);
+
+// ES2015
+var args = Array.from(arguments);
+  
+##
+  
+  
+  
