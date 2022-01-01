@@ -34,13 +34,12 @@ O objeto arguments é uma variável local disponível dentro de todas as funçõ
 CSS
   
   
-Fluxo normal é como o navegador estabelece páginas HTML por padrão quando você não faz nada para controlar o layout da página. Vejamos um exemplo HTML rápido:
-  <p>I love my cat.</p>
+Fluxo normal é como o navegador estabelece páginas HTML por padrão quando você não faz nada para controlar o layout da página. Vejamos um exemplo HTML rápido: <p>.</p>
 
-//<ul>
-  <li>Buy cat food</li>
-  <li>Exercise</li>
-  <li>Cheer up friend</li>
-//</ul>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
-//<p>The end!</p>
+<p></p>
