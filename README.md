@@ -21,13 +21,16 @@ JS
 O objeto arguments é uma variável local disponível dentro de todas as funções. Você pode referenciar os argumentos de uma função dentro da função usando o objeto arguments. Esse objeto contém um registro para cada argumento fornecido para a função, com o índice do primeiro registro começando em 0. Por exemplo, se são passados três argumentos para uma função, você pode referenciá-los como a seguir: 
   
   
-var args = Array.prototype.slice.call(arguments);
-var args = [].slice.call(arguments);
+//var args = Array.prototype.slice.call(arguments);
+//var args = [].slice.call(arguments);
 
 // ES2015
-var args = Array.from(arguments);
+//var args = Array.from(arguments);
   
 ##
   
+
+CSS
   
   
+Fluxo normal é como o navegador estabelece páginas HTML por padrão quando você não faz nada para controlar o layout da página. Vejamos um exemplo HTML rápido:
