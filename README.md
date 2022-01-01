@@ -35,3 +35,12 @@ CSS
   
   
 Fluxo normal é como o navegador estabelece páginas HTML por padrão quando você não faz nada para controlar o layout da página. Vejamos um exemplo HTML rápido:
+  <p>I love my cat.</p>
+
+<ul>
+  <li>Buy cat food</li>
+  <li>Exercise</li>
+  <li>Cheer up friend</li>
+</ul>
+
+<p>The end!</p>
