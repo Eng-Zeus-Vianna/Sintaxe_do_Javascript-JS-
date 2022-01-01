@@ -4,7 +4,7 @@
 
 Neste erpositório será abordado algumas sintaxes do HTML, JS, CSS. em especial abordaremos a linguagem javascript
 
-<img aligth="right" alt="Zeus Emog" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58530995/147861478-5d91dc1d-be1a-4313-b1c9-6891938523f5.png">
+<img aligth="left" alt="Zeus Emog" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58530995/147861478-5d91dc1d-be1a-4313-b1c9-6891938523f5.png">
 
 ##
 
